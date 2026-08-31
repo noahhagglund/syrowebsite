@@ -161,9 +161,11 @@ h2{
    ========================================================= */
 
 .hero{
-  padding:120px 0 110px;
-  background:var(--lime);
-  color:var(--black);
+  min-height:calc(100vh - 72px);
+  padding:100px 0 70px;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
 }
 
 .hero-copy{
