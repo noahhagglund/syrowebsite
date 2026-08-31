@@ -1,0 +1,132 @@
+{
+  "name": "Noah Hägglund",
+  "headline": "Sound Designer & Audio Engineer",
+  "location": "Stockholm, Sweden",
+  "description": "Stockholm-based sound designer and audio engineer working across film, games, animation and commercial productions.",
+
+  "bio": [
+    "I'm Noah Hägglund, a Stockholm-based sound designer and audio engineer working across film, games, animation and commercial productions.",
+    "My work spans sound design, music, mixing, mastering and audio post-production. PS. i also do video editing"
+  ],
+
+  "services": [
+    {
+      "title": "Sound Design",
+      "description": "Sound effects, environments, movement and sonic atmospheres."
+    },
+    {
+      "title": "Mixing & Mastering",
+      "description": "Dialogue, music and sound effects mixed and mastered for picture."
+    },
+    {
+      "title": "Audio Post-Production",
+      "description": "Editing, restoration, mixing and mastering for film and media."
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Christmas Greeting 2026",
+      "meta": "Sweco /  Studio Konkret · Role: Sound Designer",
+      "video": "https://www.youtube.com/embed/_bZya92FC8I?controls=1&modestbranding=1&rel=0&playsinline=1&enablejsapi=1",
+      "platform": "YouTube"
+    },
+    {
+      "title": "Christmas Greeting 2025",
+      "meta": "Sweco / Studio Konkret · Role: Sound Designer",
+      "video": "https://www.youtube.com/embed/7YHTXxKZF6k?controls=1&modestbranding=1&rel=0&playsinline=1&enablejsapi=1",
+      "platform": "YouTube"
+    },
+    {
+      "title": "Blåkläder's Triple Density Sole",
+      "meta": "Blåkläder / Studio Konkret · Role: Sound Designer",
+      "video": "https://player.vimeo.com/video/1098969894?h=e0b7eb809e&controls=1&title=0&byline=0&portrait=0&badge=0&autopause=0",
+      "platform": "Vimeo"
+    },
+    {
+      "title": "Red Bull Symphonic x Victor Leksell (BTS)",
+      "meta": "Red Bull / SoYou · Role: Editor / Sound Designer",
+      "video": "https://www.youtube.com/embed/qAWUTnCIgBg?controls=1&modestbranding=1&rel=0&playsinline=1&enablejsapi=1",
+      "platform": "YouTube"
+    },
+    {
+      "title": "Stellaris Nexus Announcement",
+      "meta": "Paradox Arc / Artistry Film · Role: Sound Designer",
+      "video": "https://www.youtube.com/embed/ygVyPM1IvMU?si=BsGllRj1LELklwtg",
+      "platform": "YouTube"
+    },
+    {
+      "title": "The Charging Game",
+      "meta": "Scania / Appelberg Communication · Role: Sound Designer",
+      "video": "https://player.vimeo.com/video/1084888893?h=dfa957d328&controls=1&title=0&byline=0&portrait=0&badge=0&autopause=0",
+      "platform": "Vimeo"
+    },
+    {
+      "title": "Swedish Sterling",
+      "meta": "Stirling Versal / Rob Whiteman · Role: Sound Designer",
+      "video": "https://player.vimeo.com/video/807228365?h=071261df06&controls=1&title=0&byline=0&portrait=0&badge=0&autopause=0",
+      "platform": "Vimeo"
+    },
+    {
+      "title": "12,000 KM - Trans-Siberian to Japan",
+      "meta": "Erik Nylander · Role: Composer / Sound Designer",
+      "video": "https://player.vimeo.com/video/476216027?h=d37157fb46&controls=1&title=0&byline=0&portrait=0&badge=0&autopause=0",
+      "platform": "Vimeo"
+    },
+    {
+      "title": "Paradox Arc 1st Year Anniversary",
+      "meta": "Paradox / Artistry Film · Role: Sound Designer",
+      "video": "https://www.youtube.com/embed/j9HB7QnrZMg?controls=1&modestbranding=1&rel=0&playsinline=1&enablejsapi=1",
+      "platform": "YouTube"
+    },
+    {
+      "title": "Showreel",
+      "meta": "Frost / Lena Quach · Role: Sound Designer",
+      "video": "https://player.vimeo.com/video/807228093?h=772195fad5&controls=1&title=0&byline=0&portrait=0&badge=0&autopause=0",
+      "platform": "Vimeo"
+    },
+    {
+      "title": "Revelop",
+      "meta": "Revelop / Rob Whiteman · Role: Composer / Sound Designer",
+      "video": "https://player.vimeo.com/video/807228185?h=ece2d146ee&controls=1&title=0&byline=0&portrait=0&badge=0&autopause=0",
+      "platform": "Vimeo"
+    },
+    {
+      "title": "Jeopardy",
+      "meta": "Discovery+ / Strictly Post · Role: Composer / Sound Designer",
+      "video": "https://player.vimeo.com/video/901874454?h=c22ebfa144&controls=1&title=0&byline=0&portrait=0&badge=0&autopause=0",
+      "platform": "Vimeo"
+    },
+    {
+      "title": "#WeCreateJobs",
+      "meta": "Zynca.se / Michel Megherbi · Role: Sound Designer",
+      "video": "https://www.youtube.com/embed/P_ChjFPzIm4?controls=1&modestbranding=1&rel=0&playsinline=1&enablejsapi=1",
+      "platform": "YouTube"
+    },
+    {
+      "title": "Helgfilmer",
+      "meta": "Discovery+ / Linnéa Fridh · Role: Sound Designer",
+      "video": "https://player.vimeo.com/video/807228878?h=1037221d5d&controls=1&title=0&byline=0&portrait=0&badge=0&autopause=0",
+      "platform": "Vimeo"
+    },
+    {
+      "title": "Riddermark",
+      "meta": "Riddermark / Michel Megherbi · Role: Sound Designer",
+      "video": "https://player.vimeo.com/video/807228277?h=2568559947&controls=1&title=0&byline=0&portrait=0&badge=0&autopause=0",
+      "platform": "Vimeo"
+    }
+  ],
+
+  "contact": {
+    "email": "noahhaegglund@gmail.com",
+    "phone": "+46702094944",
+    "linkedin": "https://www.linkedin.com/in/noah-h%C3%A4gglund-johnson-103055141/",
+    "instagram": "https://www.instagram.com/_njhnsn/"
+  },
+
+  "seo": {
+    "title": "Noah Hägglund — Sound Designer & Audio Engineer in Stockholm",
+    "description": "Noah Hägglund is a Stockholm-based sound designer and audio engineer working across film, games, animation and commercial productions.",
+    "keywords_context": "sound designer Stockholm, audio engineer Stockholm, sound design Sweden, film sound, game audio, audio post-production, mixing, mastering"
+  }
+}

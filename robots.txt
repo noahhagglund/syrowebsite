@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace with your real domain before publishing.
+Sitemap: https://noahhagglund.com//sitemap.xml
