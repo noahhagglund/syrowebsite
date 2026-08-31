@@ -49,7 +49,7 @@ loadData().then(data=>{
   document.getElementById("footer-name").textContent=data.name;
   document.getElementById("location").textContent=data.location;
   document.getElementById("headline").textContent=data.headline;
-  document.getElementById("description").textContent=data.description;
+  document.getElementById("description").innerHTML=data.description;
   document.getElementById("year").textContent=new Date().getFullYear();
 
   const projects=document.getElementById("projects");
