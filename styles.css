@@ -161,7 +161,7 @@ h2{
    ========================================================= */
 
 .hero{
-  min-height:calc(100vh - 200px);
+  min-height:calc(100vh - 230px);
   padding:100px 0 80px;
   display:flex;
   flex-direction:column;
