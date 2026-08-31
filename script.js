@@ -58,7 +58,7 @@ loadData().then(data=>{
   const bio=document.getElementById("bio");
   data.bio.forEach(t=>{
     const p=document.createElement("p");
-    p.textContent=t;
+    p.innerHTML=t;
     bio.appendChild(p);
   });
 
