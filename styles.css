@@ -343,6 +343,19 @@ h2{
   gap:48px;
 }
 
+  display:flex;
+  align-items:flex-start;
+  justify-content:flex-start;
+}
+
+.about-photo img{
+  width:160px;
+  height:160px;
+  object-fit:cover;
+  border-radius:50%;
+  display:block;
+}
+
 .copy{
   max-width:760px;
 }
