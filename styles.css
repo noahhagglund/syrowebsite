@@ -267,10 +267,11 @@ h2{
 }
 
 .project-card{
-  background:var(--lime);
+  background:var(--black);
   border:1px solid var(--black);
   border-radius:16px;
   overflow:hidden;
+  color:var(--lime);
   transition:
     transform .2s ease,
     box-shadow .2s ease;
@@ -297,18 +298,19 @@ h2{
 
 .project-body{
   padding:18px 18px 20px;
+  background:var(--black);
 }
 
 .project-title{
   margin:0 0 6px;
-  color:var(--black);
+  color:var(--lime);
   font-size:.98rem;
   font-weight:400;
 }
 
 .project-meta{
   margin:0;
-  color:var(--black);
+  color:var(--lime);
   font-size:.8rem;
   line-height:1.5;
 }
@@ -316,7 +318,7 @@ h2{
 .project-link{
   display:inline-flex;
   margin-top:14px;
-  color:var(--black);
+  color:var(--lime);
   font-size:.78rem;
   text-decoration:underline;
   text-underline-offset:3px;
