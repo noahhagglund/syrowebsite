@@ -343,15 +343,17 @@ h2{
   gap:48px;
 }
 
+.about-photo{
   display:flex;
   align-items:flex-start;
   justify-content:flex-start;
 }
 
 .about-photo img{
-  width:160px;
-  height:160px;
+  width:130px;
+  height:130px;
   object-fit:cover;
+  object-position:center;
   border-radius:50%;
   display:block;
 }
@@ -364,7 +366,6 @@ h2{
   margin:0 0 18px;
   color:var(--black);
 }
-
 
 /* =========================================================
    SERVICES
