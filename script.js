@@ -48,7 +48,7 @@ loadData().then(data=>{
   document.getElementById("brand").textContent=data.name;
   document.getElementById("footer-name").textContent=data.name;
   document.getElementById("location").textContent=data.location;
-  document.getElementById("headline").textContent=data.headline;
+  document.getElementById("headline").innerHTML=data.headline.replace(" & ","<br>& ");
   document.getElementById("description").innerHTML=data.description;
   document.getElementById("year").textContent=new Date().getFullYear();
 
