@@ -423,8 +423,12 @@ h2{
 .contact-info{
   display:flex;
   flex-direction:column;
-  align-items:flex-start;
   gap:14px;
+}
+
+#contact .two-col > div:last-child{
+  justify-self:end;
+  width:30%;
 }
 
 .contact-email,
@@ -462,6 +466,25 @@ h2{
   opacity:.55;
 }
 
+
+/* =========================================================
+   CONTACT — MOBILE
+   ========================================================= */
+
+@media(max-width:720px){
+
+  #contact .two-col{
+    grid-template-columns:1fr;
+    gap:24px;
+  }
+
+  #contact .two-col > div:last-child{
+    justify-self:start;
+    width:100%;
+    max-width:none;
+  }
+
+}
 /* =========================================================
    FOOTER
    ========================================================= */
