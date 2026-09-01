@@ -426,8 +426,8 @@ h2{
   gap:14px;
 }
 
-#contact .contact-info{
-  padding-left:48px;
+#contact .two-col > div:last-child{
+  transform:translateX(48px);
 }
 
 .contact-email,
