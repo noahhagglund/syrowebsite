@@ -219,6 +219,7 @@ h2{
   height:1px;
   background:var(--black);
   transform:translateX(-50%);
+  opacity:1;
 }
 
 /*
