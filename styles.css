@@ -420,21 +420,46 @@ h2{
   letter-spacing:-.05em;
 }
 
-.contact-socials{
+.contact-info{
   display:flex;
   flex-direction:column;
+  align-items:flex-start;
   gap:14px;
-  margin-top:8px;
-}
-
-#contact .two-col > div:last-child{
-  transform:translateX(48px);
 }
 
 .contact-email,
 .contact-phone{
   color:var(--black);
   font-size:1.05rem;
+}
+
+.contact-email a,
+.contact-phone a{
+  display:inline-block;
+  color:var(--black);
+  text-decoration:underline;
+  text-underline-offset:4px;
+}
+
+.contact-socials{
+  display:flex;
+  flex-direction:column;
+  align-items:flex-start;
+  gap:14px;
+  margin-top:8px;
+}
+
+.contact-socials a{
+  color:var(--black);
+  font-size:.9rem;
+  text-decoration:underline;
+  text-underline-offset:3px;
+}
+
+.contact-email a:hover,
+.contact-phone a:hover,
+.contact-socials a:hover{
+  opacity:.55;
 }
 
 /* =========================================================
