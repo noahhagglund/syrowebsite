@@ -150,6 +150,10 @@ h1{
   max-width:1000px;
 }
 
+#headline{
+  white-space:nowrap;
+}
+
 h2{
   font-size:clamp(2rem,4vw,3.6rem);
   line-height:1;
