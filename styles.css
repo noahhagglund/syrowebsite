@@ -420,10 +420,11 @@ h2{
   letter-spacing:-.05em;
 }
 
-.contact-info{
+.contact-socials{
   display:flex;
   flex-direction:column;
   gap:14px;
+  margin-top:8px;
 }
 
 #contact .two-col > div:last-child{
