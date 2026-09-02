@@ -566,3 +566,24 @@ h2{
     min-height:76px;
   }
 }
+
+h1,
+h2,
+h3,
+a,
+button,
+nav,
+.brand,
+.project-title,
+.project-meta,
+.service h3,
+.service p,
+.contact-info,
+.footer-inner,
+.hero-copy,
+.service-focus,
+.focus-copy,
+#bio,
+#bio * {
+  text-transform: uppercase;
+}
